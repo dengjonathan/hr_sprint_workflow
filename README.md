@@ -29,6 +29,12 @@ You are required to fill in the following variables:
 
 # Running the command
 
+1. **Download the repository for learn.makerspace.com**
+
+Your browser should automatically download the sprint repository into your default Downloads directory, which you specified in the set up phase.
+
+2. **Run the script with your command line**
+
 To run the command you have to give the script one argument from the command line.
 The argument is the name of the individual sprint (what it says between course.[SPRINT-NAME].exercise in the downloaded zip folder)
 
@@ -46,6 +52,17 @@ For example on my computer I have the below in my .bashrc:
 Which allows me to just type:
 
 `sprint data-structures` to run this script.
+
+3. **Do something with all the time saved**
+
+At the end of script execution you should have:
+1.the sprint code unzipped
+2. saved in the directory that you want it
+3. the git repo initialized
+4. the git repo on the branch with the project name i.e. course.data-structures.exercises
+5. The remote repository connected to your local git reop.
+
+You're all ready to set up Floobits (a different story) and start hacking!!!!
 
 # Troubleshooting
 
